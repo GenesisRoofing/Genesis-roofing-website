@@ -1,0 +1,20 @@
+# Former website addresses; send visitors and search engines to current pages.
+/about / 301
+/contact /#contact 301
+/reviews / 301
+/roof-replacement /#services 301
+/services/roof-replacement /#services 301
+/services/roof-replacement/flat-roof-replacement /#contact 301
+/services/roof-repair /#services 301
+/services/roof-repair/emergency-roof-repair /#contact 301
+/services/roof-repair/insurance-claims-assistance /#contact 301
+/service-areas/buford-ga /service-areas/buford/ 301
+/service-areas/lawrenceville-ga /service-areas/lawrenceville/ 301
+/service-areas/sugar-hill-ga /service-areas/sugar-hill/ 301
+/service-areas/suwanee-ga /service-areas/suwanee/ 301
+/service-areas/cumming-ga /service-areas/cumming/ 301
+/service-areas/dacula-ga /service-areas/dacula/ 301
+/service-areas/alpharetta-ga /service-areas/alpharetta/ 301
+/service-areas/lilburn-ga /service-areas/lilburn/ 301
+/service-areas/snellville-ga /service-areas/snellville/ 301
+/service-areas/johns-creek-ga /service-areas/johns-creek/ 301
