@@ -1,0 +1,6 @@
+.git/
+.wrangler/
+node_modules/
+*.zip
+genesis-roofing-GITHUB-SNAPSHOT-*/
+README.md
